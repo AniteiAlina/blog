@@ -20,7 +20,6 @@ export default function Home() {
     return (
         <>
             <section className="hero">
-                <p className="hero-greeting">$ cat blog.md</p>
                 <h1 className="hero-name">
                     <span className="accent">Piwi.ai</span> Blog
                 </h1>
