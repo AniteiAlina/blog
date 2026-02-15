@@ -9,6 +9,7 @@ export default defineConfig({
       routes: [
         '/',
         '/blog',
+        '/blog/seo-vs-geo-2026',
         '/blog/contract-automation-ai-mapping-vs-reading',
         '/blog/8-signs-ai-automation-for-business',
         '/blog/intelligent-document-processing-trends-2026',
