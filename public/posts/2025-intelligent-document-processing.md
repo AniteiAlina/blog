@@ -1,4 +1,3 @@
-# 2025: The Year Document Processing Became Intelligent
 
 If 2024 was defined by "AI Hype," 2025 was the year of **AI Impact**. In the world of Intelligent Document Processing, technology finally matched the speed of business. We saw three massive shifts that redefined how companies operate.
 

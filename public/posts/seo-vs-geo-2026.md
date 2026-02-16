@@ -1,4 +1,3 @@
-# SEO vs GEO: Why Your Business Needs Both in 2026
 
 The way people find businesses is changing. Fast.
 

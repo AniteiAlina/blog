@@ -1,4 +1,3 @@
-# Beyond the Search: Why 2026 is the Year We Move from OCR to Document Intelligence
 
 In a recent conversation making the rounds in the operations world, a manager urgently tells his colleague: "We need to use AI for our document processing immediately." When asked why, his answer is simple: "Because the 2026 reports say everyone is moving to AI systems".
 

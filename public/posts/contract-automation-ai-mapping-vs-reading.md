@@ -1,4 +1,3 @@
-# Mapping vs. Reading: Most AI Fails at Contract Automation
 
 **Overview**
 
