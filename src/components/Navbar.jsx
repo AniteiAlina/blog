@@ -23,7 +23,6 @@ export default function Navbar() {
 
                 <nav className={`navbar-links ${menuOpen ? 'open' : ''}`}>
                     <NavLink to="/" end onClick={() => setMenuOpen(false)}>Home</NavLink>
-                    <NavLink to="/blog" onClick={() => setMenuOpen(false)}>Blog</NavLink>
                 </nav>
             </div>
         </header>

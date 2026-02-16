@@ -31,7 +31,7 @@ export default function Home() {
                     Explore how modern IDP is transforming business workflows.
                 </p>
                 <div className="hero-actions">
-                    <Link to="/blog" className="btn btn-primary">
+                    <Link to="/" className="btn btn-primary">
                         Read the Blog →
                     </Link>
                     <a
@@ -52,13 +52,13 @@ export default function Home() {
                         <li key={post.slug} className="post-item">
                             <span className="post-date">{formatDate(post.date)}</span>
                             <h3>
-                                <Link to={`/blog/${post.slug}`}>{post.title}</Link>
+                                <Link to={`/${post.slug}`}>{post.title}</Link>
                             </h3>
                             <p className="post-excerpt">{post.excerpt}</p>
                         </li>
                     ))}
                 </ul>
-                <Link to="/blog" className="view-all">
+                <Link to="/" className="view-all">
                     View all posts →
                 </Link>
             </section>

@@ -27,7 +27,7 @@ export default function Blog() {
                     <li key={post.slug} className="post-item">
                         <span className="post-date">{formatDate(post.date)}</span>
                         <h3>
-                            <Link to={`/blog/${post.slug}`}>{post.title}</Link>
+                            <Link to={`/${post.slug}`}>{post.title}</Link>
                         </h3>
                         <p className="post-excerpt">{post.excerpt}</p>
                     </li>

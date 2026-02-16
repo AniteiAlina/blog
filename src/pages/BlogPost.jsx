@@ -53,7 +53,7 @@ export default function BlogPost() {
                 <h1>Post not found</h1>
                 <p>
                     The post you're looking for doesn't exist.{' '}
-                    <Link to="/blog">Back to blog</Link>
+                    <Link to="/">Back to blog</Link>
                 </p>
             </div>
         )
@@ -63,7 +63,7 @@ export default function BlogPost() {
         <div className="blog-post-layout">
             <article className="blog-post">
                 <div className="post-header">
-                    <Link to="/blog" className="post-back-link">
+                    <Link to="/" className="post-back-link">
                         ← Back to blog
                     </Link>
                     <h1>{post.title}</h1>
@@ -86,7 +86,7 @@ export default function BlogPost() {
                 )}
 
                 <div className="post-footer">
-                    <Link to="/blog">← All posts</Link>
+                    <Link to="/">← All posts</Link>
                 </div>
             </article>
             <AuthorSidebar author={author} />
