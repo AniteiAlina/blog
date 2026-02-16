@@ -17,7 +17,7 @@ export default defineConfig({
       },
     }),
   ],
-  base: '/blog/',
+  base: '/',
   build: {
     outDir: 'dist',
   },
