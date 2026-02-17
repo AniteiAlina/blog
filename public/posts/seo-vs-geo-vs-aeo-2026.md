@@ -8,7 +8,7 @@
 
 **GEO (Generative Engine Optimization)** gets you recommended by AI chatbots like ChatGPT, Claude, and Perplexity.
 
-**AEO (Answer Engine Optimization)** gets you featured in instant answers, voice search, and AI Overviews - before anyone even clicks.
+**AEO (Answer Engine Optimization)** gets you featured in instant answers, voice search, and AI Overviews — before anyone even clicks.
 
 In 2026, you need all three. Together, they form one complete strategy: **Search Everywhere Optimization.**
 
@@ -18,16 +18,17 @@ In 2026, you need all three. Together, they form one complete strategy: **Search
 
 <div style="color: #00b894;">
 
-- [What is SEO?](#what-is-seo)
-  - [What are the core SEO strategies?](#core-seo-strategies)
-- [What is GEO?](#what-is-geo)
-  - [What GEO strategies can you implement today?](#geo-strategies-you-can-implement-today)
-- [What is AEO?](#what-is-aeo)
-  - [What are common AEO strategies?](#common-aeo-strategies)
-- [SEO vs. GEO vs. AEO: How do they compare?](#seo-vs-geo-vs-aeo-how-do-they-compare)
 - [What is Search Everywhere Optimization?](#what-is-search-everywhere-optimization)
-  - [How to do Search Everywhere Optimization](#how-to-do-search-everywhere-optimization)
+- [What is SEO?](#what-is-seo)
+  - [Core SEO Strategies:](#core-seo-strategies)
+- [What is GEO?](#what-is-geo)
+  - [GEO Strategies You Can Implement Today:](#geo-strategies-you-can-implement-today)
+- [What is AEO?](#what-is-aeo)
+  - [Common AEO Strategies:](#common-aeo-strategies)
+- [SEO vs GEO vs AEO: How Do They Compare?](#seo-vs-geo-vs-aeo-how-do-they-compare)
+- [How to Do Search Everywhere Optimization](#how-to-do-search-everywhere-optimization)
 - [Action Steps: Start This Week](#action-steps-start-this-week)
+- [The Bottom Line](#the-bottom-line)
 - [FAQs](#faqs)
 
 </div>
@@ -43,7 +44,7 @@ Not anymore.
 People now search in three completely different ways:
 - They **Google** a topic and scroll through results
 - They **ask AI** (ChatGPT, Claude, Perplexity) for a direct recommendation
-- They get an **instant answer** from voice assistants, AI Overviews, or featured snippets - without clicking anything
+- They get an **instant answer** from voice assistants, AI Overviews, or featured snippets — without clicking anything
 
 If you're only optimizing for Google, you're invisible in the other two.
 
@@ -93,7 +94,7 @@ When someone asks ChatGPT "What's the best tool for document automation?", the A
 
 ## What is AEO?
 
-AEO (Answer Engine Optimization) is the practice of getting your content featured as the direct answer - before anyone clicks.
+AEO (Answer Engine Optimization) is the practice of getting your content featured as the direct answer — before anyone clicks.
 
 You've seen this in action:
 - **Google AI Overviews:** The AI-generated summary at the top of search results
@@ -118,6 +119,8 @@ You've seen this in action:
 
 ## SEO vs GEO vs AEO: How Do They Compare?
 
+<div style="overflow-x: auto;">
+
 | Aspect | SEO | GEO | AEO |
 |--------|-----|-----|-----|
 | **Target** | Google, Bing | ChatGPT, Claude, Perplexity | AI Overviews, Voice Search, Snippets |
@@ -125,6 +128,8 @@ You've seen this in action:
 | **Success Metric** | Page rank, traffic | AI citations | Featured snippet, voice results |
 | **Content Style** | Keyword-optimized | Clear, factual, definitive | Concise, structured, Q&A format |
 | **Click Required?** | Yes | Sometimes | No (zero-click) |
+
+</div>
 
 **The overlap:** All three reward clear, structured, credible content. Write well for one, and you're helping all three.
 
@@ -198,7 +203,7 @@ SEO gets you found. GEO gets you recommended. AEO gets you featured.
 
 In 2026, you can't afford to optimize for just one.
 
-The good news? The fundamentals overlap. Clear, structured, credible content helps all three. Start with the basics - be specific about what you do, back it up with real data, and build your presence across credible platforms.
+The good news? The fundamentals overlap. Clear, structured, credible content helps all three. Start with the basics — be specific about what you do, back it up with real data, and build your presence across credible platforms.
 
 That's Search Everywhere Optimization.
 
