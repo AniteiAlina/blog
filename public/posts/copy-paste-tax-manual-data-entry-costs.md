@@ -1,6 +1,6 @@
 ## Quick Answer
 
-Manual data entry costs businesses far more than just labor hours. Between human errors (which cost companies an average of $15M per year), employee burnout, and the inability to scale, businesses pay what we call the **Copy-Paste Tax**,a hidden penalty that drains 20-30% of operational efficiency. In 2026, the solution isn't hiring more people. It's eliminating the manual work entirely with intelligent automation.
+Manual data entry costs businesses far more than just labor hours. Between human errors (which cost companies an average of $15M per year), employee burnout, and the inability to scale, businesses pay what we call the **Copy-Paste Tax**—a hidden penalty that drains 20-30% of operational efficiency. In 2026, the solution isn't hiring more people. It's eliminating the manual work entirely with intelligent automation.
 
 ---
 
@@ -65,13 +65,13 @@ According to [IBM's 2023 Cost of a Data Breach Report](https://www.ibm.com/repor
 - **Compliance violations:** Missing data in regulatory filings resulting in fines
 - **Customer churn:** Wrong orders, billing issues, or service failures
 
-A logistics company processing 500 invoices per week with just a **2% error rate** faces 520 mistakes per year. At 1 hour per error to fix and communicate, that's **$26,000 annually just cleaning up mistakes**, before accounting for lost customer trust or delayed cash flow.
+A logistics company processing 500 invoices per week with just a **2% error rate** faces 520 mistakes per year. At 1 hour per error to fix and communicate, that's **$26,000 annually just cleaning up mistakes**—before accounting for lost customer trust or delayed cash flow.
 
 **The opportunity cost is even worse.**
 
 When a sales rep earning $80,000/year spends 20 hours per week on CRM updates instead of selling, they lose **1-2 deals per month**. At a 20% close rate with $50,000 deals, that's **$100,000-$200,000 in missed revenue per person**.
 
-For a team of 10, that's **$1-2 million in lost revenue annually**, just because your salespeople are doing admin work instead of selling.
+For a team of 10, that's **$1-2 million in lost revenue annually**—just because your salespeople are doing admin work instead of selling.
 
 ### Scaling Problems & Employee Burnout
 
@@ -97,7 +97,7 @@ Nobody dreams of copying data from PDFs into spreadsheets for a career. When you
 - **Turnover:** Your best people leave for more meaningful work
 - **Recruitment costs:** Replacing an employee costs 50-200% of their salary
 
-If data entry contributes to just a **10% higher turnover rate**, that's one extra person leaving per year. At **$75,000 replacement cost**, that's **$375,000 over 5 years**, not including lost institutional knowledge.
+If data entry contributes to just a **10% higher turnover rate**, that's one extra person leaving per year. At **$75,000 replacement cost**, that's **$375,000 over 5 years**—not including lost institutional knowledge.
 
 ## The Total Copy-Paste Tax
 
@@ -170,7 +170,7 @@ No, it eliminates tasks. The same employees who were doing data entry can now fo
 
 **Q: What if my documents are too complex for automation?**
 
-Modern intelligent document processing handles complexity through contextual understanding, not rigid templates. If a human can read and extract the data, AI can too and faster. Most companies see 99%+ accuracy within weeks of implementation.
+Modern intelligent document processing handles complexity through contextual understanding, not rigid templates. If a human can read and extract the data, AI can too—and faster. Most companies see 99%+ accuracy within weeks of implementation.
 
 **Q: How long does implementation take?**
 
